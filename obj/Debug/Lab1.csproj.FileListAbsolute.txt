@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2010\Projects\Lab1\Lab1\bin\Lab1.dll
+c:\users\usuario\documents\visual studio 2010\Projects\Lab1\Lab1\bin\Lab1.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\Lab1\Lab1\obj\Debug\Lab1.dll
+c:\users\usuario\documents\visual studio 2010\Projects\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Abril\OneDrive\Documentos\Universidad\Desarrollo Software\Lab1\Lab1\bin\Lab1.dll
+C:\Users\Abril\OneDrive\Documentos\Universidad\Desarrollo Software\Lab1\Lab1\bin\Lab1.pdb
+C:\Users\Abril\OneDrive\Documentos\Universidad\Desarrollo Software\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Abril\OneDrive\Documentos\Universidad\Desarrollo Software\Lab1\Lab1\obj\Debug\Lab1.dll
+C:\Users\Abril\OneDrive\Documentos\Universidad\Desarrollo Software\Lab1\Lab1\obj\Debug\Lab1.pdb
